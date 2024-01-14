@@ -3,7 +3,6 @@
 
 **Web View**:
 <br />
-<img src="https://github.com/Pritam-kumar1/WebCartApp/assets/43674653/9cef9b7b-8bbe-4bda-91d4-352a6c7408c2" width="100" height="100">
 ![image](https://github.com/Pritam-kumar1/WebCartApp/assets/43674653/9cef9b7b-8bbe-4bda-91d4-352a6c7408c2)
 **Android Web app**:
 <br />
